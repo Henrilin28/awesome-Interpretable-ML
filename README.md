@@ -28,8 +28,8 @@
 1.  [lime](https://github.com/marcotcr/lime) This project is about explaining what machine learning classifiers (or models) are doing.
 2.  [Shap](https://github.com/slundberg/shap) Explain the output of any machine learning model using expectations and Shapley values.
 3.  [sklearn-expertsys](https://github.com/tmadl/sklearn-expertsys) Highly interpretable classifiers for scikit learn, producing easily understood decision rules instead of black box models 
-4.  [ML Insights](https://githutorial/deeplearning.pdf) Package to understand Supervised ML Models. This package has been tested with Scikit-Learn and XGBoost library. It should work with any machine learning library that has a predict and predict_proba methods for regression and classification estimators.
- 
+4.  [ML Insights](https://githutorial/deeplearning.pdf) Package to understand Supervised ML Models. This package has been tested with Scikit-Learn and XGBoost library. It should work with any machine learning library that has a predict and predict_proba methods for regression and classification estimators.
+5.  [FairML](https://github.com/adebayoj/fairml) an end-to-end toolbox for auditing predictive models by quantifying the relative significance of the model’s inputs. 
 -----
 ### Contributing
 Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/ashara12/awesome-deeplearning/pulls). 
