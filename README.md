@@ -4,23 +4,23 @@
 
 ## Table of Contents
 
-* **[Python packages](#Python-packages)**  
+* **[Python packages](#Python-packages)**
 
-* **[Courses](#courses)**  
+* **[Courses](#courses)**
 
-* **[Videos and Lectures](#videos-and-lectures)**  
+* **[Videos and Lectures](#videos-and-lectures)**
 
-* **[Papers](#papers)**  
+* **[Papers](#papers)**
 
-* **[Tutorials](#tutorials)**  
+* **[Tutorials](#tutorials)**
 
-* **[Researchers](#researchers)**  
+* **[Researchers](#researchers)**
 
-* **[WebSites](#websites)**  
+* **[WebSites](#websites)**
 
-* **[Miscellaneous](#miscellaneous)**  
+* **[Miscellaneous](#miscellaneous)**
 
-* **[Contributing](#contributing)**  
+* **[Contributing](#contributing)**
 
 ### Papers
 
@@ -29,10 +29,10 @@
 
 1. [lime](https://github.com/marcotcr/lime) This project is about explaining what machine learning classifiers (or models) are doing.
 2. [Shap](https://github.com/slundberg/shap) Explain the output of any machine learning model using expectations and Shapley values.
-3. [sklearn-expertsys](https://github.com/tmadl/sklearn-expertsys) Highly interpretable classifiers for scikit learn, producing easily understood decision rules instead of black box models 
+3. [sklearn-expertsys](https://github.com/tmadl/sklearn-expertsys) Highly interpretable classifiers for scikit learn, producing easily understood decision rules instead of black box models
 4. [ML Insights](https://githutorial/deeplearning.pdf) Package to understand Supervised ML Models. This package has been tested with Scikit-Learn and XGBoost library. It should work with any machine learning library that has a predict and predict_proba methods for regression and classification estimators.
-5. [FairML](https://github.com/adebayoj/fairml) an end-to-end toolbox for auditing predictive models by quantifying the relative significance of the model’s inputs. 
-6. [Edeward](https://github.com/blei-lab/edward) Edward is a Python library for probabilistic modeling, inference, and criticism. It is a testbed for fast experimentation and research with probabilistic models, ranging from classical hierarchical models on small data sets to complex deep probabilistic models on large data sets. Edward fuses three fields: Bayesian statistics and machine learning, deep learning, and probabilistic programming.
+5. [FairML](https://github.com/adebayoj/fairml) an end-to-end toolbox for auditing predictive models by quantifying the relative significance of the model’s inputs.
+6. [Edward](https://github.com/blei-lab/edward) Edward is a Python library for probabilistic modeling, inference, and criticism. It is a testbed for fast experimentation and research with probabilistic models, ranging from classical hierarchical models on small data sets to complex deep probabilistic models on large data sets. Edward fuses three fields: Bayesian statistics and machine learning, deep learning, and probabilistic programming.
 
 ### Videos and Lectures
 - [Andrew Rowan - Bayesian Deep Learning with Edward (and a trick using Dropout)](https://www.youtube.com/watch?v=I09QVNrUS3Q)
@@ -40,7 +40,7 @@
 
 -----
 ### Contributing
-Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/ashara12/awesome-deeplearning/pulls). 
+Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/ashara12/awesome-deeplearning/pulls).
 
 -----
 ## License
