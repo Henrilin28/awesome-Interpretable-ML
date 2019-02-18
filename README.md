@@ -36,6 +36,7 @@
 7. [SNAP: node2vec](http://snap.stanford.edu/node2vec/) node2vec is an algorithmic framework for representational learning on graphs. Given any graph, it can learn continuous feature representations for the nodes, which can then be used for various downstream machine learning tasks.
 8. [Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) An intro to Bayesian methods and probabilistic programming from a computation/understanding-first, mathematics-second point of view.
 9. [Stan](http://mc-stan.org/documentation/case-studies.html) Thousands of users rely on Stan for statistical modeling, data analysis, and prediction in the social, biological, and physical sciences, engineering, and business.
+10. [Skater](https://github.com/datascienceinc/Skater) is a Python library designed with the goal to demystify the inner workings of any type of predictive model being language and framework agnostic. Currently, its supports algorithms to enable interpretability wrt supervised learning problems enabling interpretability both at the Global (on the basis of a complete dataset) and Local (on the basis of an individual prediction) Level. Support of other algorithms are currently under development.
 ### Videos and Lectures
 - [Andrew Rowan - Bayesian Deep Learning with Edward (and a trick using Dropout)](https://www.youtube.com/watch?v=I09QVNrUS3Q)
 
